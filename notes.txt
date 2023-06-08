@@ -1,0 +1,26 @@
+# info: 
+    # name and last name
+    # age
+    # nationalID
+    # sal tahsil
+#courses
+    # math
+    # phisics
+    # history
+    # computer science
+# info: 
+    # name and last name
+    # age
+    # nationalID
+    # sal tahsil
+#courses
+    # math
+    # phisics
+    # history
+    # computer_science
+--------------------------------------------------------
+#add studen
+    #get all information
+    #make file in data called as same as studenid : inside class
+    #add infos to file : inside class
+    #close file
