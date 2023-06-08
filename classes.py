@@ -33,6 +33,6 @@ class courses():
             "math grade" : self.math_grd,
             "phisics grade" : self.phisics_grd,
             "history grade" : self.history_grd,
-            "computer_science_grade" : self.computer_science_grd
+            "computer science grade" : self.computer_science_grd
         }
         return courses_information

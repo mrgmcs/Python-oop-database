@@ -1,0 +1,1 @@
+{"name": "moein", "age": "46", "NationalID": "23", "StudentID": "568", "Edu": "2321", "math grade": "12", "phisics grade": "21", "history grade": "4", "computer_science_grade": "2"}

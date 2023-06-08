@@ -1,0 +1,1 @@
+{"name": "jack", "age": "12", "NationalID": "34", "StudentID": "401", "Edu": "2342", "math grade": "45", "phisics grade": "65", "history grade": "2", "computer science grade": "1"}
