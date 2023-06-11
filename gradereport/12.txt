@@ -1,1 +1,0 @@
-{"name: ": "user", "math grade: ": "2", "phisic grade: ": "2", "history grade: ": "2", "computer science grade: ": "2"}

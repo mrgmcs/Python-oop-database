@@ -1,1 +1,4 @@
-{"name": "user", "age": "", "NationalID": "132", "StudentID": "12", "Edu": "31", "math grade": "2", "phisics grade": "2", "history grade": "2", "computer science grade": "2"}
+
+{"name": "s", "age": "s", "NationalID": "w", "StudentID": "123", "Edu": "1", "math grade": "1", "phisics grade": "2", "history grade": "3", "computer science grade": "4"}
+{"name": "m", "age": "4", "NationalID": "4", "StudentID": "143", "Edu": "3", "math grade": "4", "phisics grade": "6", "history grade": "7", "computer science grade": "5"}
+{"name": "n", "age": "2", "NationalID": "3", "StudentID": "134", "Edu": "1", "math grade": "2", "phisics grade": "3", "history grade": "4", "computer science grade": "5"}

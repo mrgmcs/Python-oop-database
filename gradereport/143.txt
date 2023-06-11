@@ -1,0 +1,1 @@
+{"name: ": "m", "math grade: ": "4", "phisic grade: ": "6", "history grade: ": "7", "computer science grade: ": "5"}
